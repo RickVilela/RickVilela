@@ -2,8 +2,7 @@
 
 
 - 🔭 Estou em busca de novas oportunidades na area de tecnologia
-- 🌱 Atualmente estou aprendendo programação web
-- ❤️ Apaixonado por Front-End
+- ❤️ Apaixonado por Back-End
 - 📫 E-mail para contato: henrique_vilela_f@hotmail.com
 
 <div align="center">
@@ -18,7 +17,8 @@
   <img align="center" alt="Rick-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rick-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rick-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rick-CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg">
+  <img align="center" alt="Rick-C#" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Rick-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
     
    ##
     
