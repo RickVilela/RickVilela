@@ -1,8 +1,4 @@
 ### Olá!! Eu sou o Henrique Vilela 👋
-
-
-- 🔭 Estou em busca de novas oportunidades na area de tecnologia
-- ❤️ Apaixonado por Back-End
 - 📫 E-mail para contato: henrique_vilela_f@hotmail.com
 
 <div align="center">
